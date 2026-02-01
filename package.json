@@ -1,6 +1,6 @@
 {
-  "name": "n8n-nodes-github-codepilot",
-  "version": "0.2.0",
+  "name": "n8n-nodes-github-codepilot2",
+  "version": "0.1.0",
   "description": "n8n community node for GitHub Codepilot - AI-powered vibecoding, workflow building, and MCP integration",
   "keywords": [
     "n8n-community-node-package",
